@@ -69,7 +69,7 @@ To run the collection using Newman, follow these steps:
 2. **Navigate to the directory where the collection and environment JSON files are located.**
 3. **Execute the collection using Newman:**
    ```bash
-  newman run [collection_file].json -e [environment_file].json
+    newman run [collection_file].json -e [environment_file].json
 
 Replace [collection_file].json with the filename of the exported collection and [environment_file].json with the filename of the exported environment.
 
